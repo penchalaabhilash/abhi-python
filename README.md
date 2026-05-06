@@ -1,2 +1,2 @@
 # abhi-python
-Beginner Python developer sharing practice projects on GitHub.
+Intermediate Python developer sharing practice projects on GitHub.
