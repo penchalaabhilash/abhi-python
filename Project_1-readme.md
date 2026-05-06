@@ -20,9 +20,9 @@ Print the current Python version using the sys module.
 Add a small message like “Environment Ready”.
 
 
-===============
-Example Output:
-================
+
+**Example Output:**
+
 Welcome to Python Setup Checker
 Enter your name: Abhi
 Hello, Abhi!
